@@ -1,7 +1,7 @@
 # AngularMap
 
 
-OpenLayers  es una biblioteca repleta de funciones y de alto rendimiento destinado para aplicaciones basadas en entornos GIS. OpenLayers es un código abierto que utiliza datos de OpenStreetMap. En la web https://1938.com.es/ejemplo-maps-angular encontraréis un ejemplo en ejecución y la cómo instalar este plugin en vuestro proyecto Angular 12
+OpenLayers  es una biblioteca repleta de funciones y de alto rendimiento destinado para aplicaciones basadas en entornos GIS. OpenLayers es un código abierto que utiliza datos de OpenStreetMap. En la web https://1938.com.es/ejemplo-maps-angular encontraréis un ejemplo en ejecución y la cómo instalar este plugin en vuestro proyecto Angular 13 
 
 ## Información sobre Anagular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
